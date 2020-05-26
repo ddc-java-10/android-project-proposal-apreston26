@@ -1,41 +1,40 @@
 ---
-title: My Android project
-description: "Trust me, it'll be cool"
+title: Car Maintence App
+description: "A healthy car is a happy car"
 layout: default
 ---
 
 ## Summary
 
-Replace this paragraph with one or more paragraphs summarizing the purpose and operation of the Android app you propose to develop in this project.
+This app would be designed with the sole intent to keep your car up to date from everything to an oil change to getting new control arms. It would help remind you of even the simple things and help even the most cluttered person remember to take good care of their car. On top of this, it would also help locate the most reliable mechanics in your nearby area using the revolutionary technology of google maps. With this app we'll make sure your car and everyone else's can keep their car reliable and safe. 
 
 ## Intended users
 
-Write a bullet list here, including at least 2 different types of intended users. Make it reasonably specific; simply saying "Anyone who likes games" (for example) is not sufficiently specific.
+* People who are always busy and have trouble remembering to maintain their car
 
-For each type of intended user, include at least 1 _user story_. A user story is usually just 1 simple sentence (no more than 2 sentences), in the voice of the intended user, stating a specific task that the user needs to perform, and the benefit that will be obtained. The simplest user stories take the form 
+    > As someone who is constantly busy and forgets some of the crucial aspects of maintaining a car and I want to have a reminder so that my car can always stay in its current, reliable state. 
 
-> As a <type of intended user (_who_)> I want to <goal (_what_)> so that <benefit (_why_).
+* People who want to be sure that they have the most reliable service 
 
-Please avoid writing too much for the user story. In particular, if the way the user story is written makes it difficult to see the _who_, _what_, and _why_, then you probably need to re-write it more directly. (On the other hand, a user story should not simply be a re-statement of the intended user description.)
-
-Here is one (silly) example of an intended user, along with a user story. Please note not only the conceptual structure, but the Markdown syntax used.
-
-* People who like to use randomness in their decision making.
-
-    > As someone who enjoys randomness in my life, I need an app that lets me flip a virtual coin or roll one or more virtual dice, so that I can base my decisions on randomness, without having to carry coins or dice in my pockets.
+    > As someone who has been ripped off by the mechanic before it's important to me that I am going to the most reliable place in town. 
 
 ## Functionality
 
-List (using a bullet list&mdash;or ordered list, if order is relevant) the key functional aspects that will be provided by the app&mdash;i.e. tell us what the user will be able to do using the app. This should not simply be a re-statement of the [summary](#summary), but should instead provide a more specific articulation of the functionality and user experience. 
+* People will put in their location so the app knows what mechanics are close by 
+* After this people will then put in their car information along with the date it last had maintainence 
+* Following this the app works like a scheduling app and allows the user to have the app set appointments for their car as appropriate
 
 ## Persistent data
 
-List, in general terms and using a bullet list, what content will be stored on the client side. This should include any information that users of your system would expect to be maintained (i.e. without connection to a server) across multiple sessions of use. 
+* Car information (i.e. oil, tires, wipers, etc.)
+* Car dates
     
 ## Device/external services
 
-If the client component will need to access special services of the device (e.g. sensors, contacts, messaging), list them here using a bullet list. Also, if the client component will need to access already-existing external services (e.g. real-time weather data, Open Movie Database, Open Trivia Database), those should also be listed here; any such references to external services should include links to the main page or API description page for the service.
+* Calender system 
+* Google maps
+* Possibly a review app
 
 ## Stretch goals/possible enhancements 
 
-If you can identify functional elements of the software that you think might not be achievable in the scope of the project, but which would nonetheless add significant value if you were able to include them, list them here. For now, we recommend listing them in order of complexity/amount of work, from the least to the most.
+* None as of 5/25/20
